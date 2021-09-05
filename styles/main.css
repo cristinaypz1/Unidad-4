@@ -1,0 +1,397 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu
+{
+    list-style: none;
+    padding: 0%;
+    top: 0%;
+    background-color: black;
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    
+}
+body {
+    background-color: gainsboro;
+  }
+nav
+ {
+    background-color: black;
+    color: white;
+  }
+
+.caja_principal
+{
+background-color: rgb(197, 197, 194);
+width: 100%;
+height: 500px;
+font-family: Arial; 
+}
+
+ .caja_principal h1 
+{
+font-size: 45px;
+top: 200px;
+color: black;
+
+}
+
+.caja_secundaria
+{
+
+    background-color: rgb(179, 179, 30);
+    width: 100%;
+    height: 500px;
+    font-family: Arial;
+
+
+}
+.elemento1
+{
+    position: relative;
+}
+#imagen_pp
+{
+    position: relative;
+    bottom: 40px;
+    left : 745px;
+    
+}
+
+.invitacion h3 
+{
+    color: grey;
+}
+.contenedor_cursos
+{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 850px;
+}
+.caja_principal p
+{
+    font-size: 20px;
+  
+}
+
+
+.caja_curso1
+{
+
+    background-color: white;
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left: 1%;
+}
+
+.caja_curso1 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso1 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton2
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img1 {
+    position: relative;
+    left: 90px;
+}
+
+.caja_curso2
+{
+
+    background-color: white;
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left:  26%;  
+    top: -400px; 
+      
+  
+}
+
+.caja_curso2 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso2 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton3
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img2 {
+    position: relative;
+    left: 90px;
+}
+  
+.caja_curso3
+{
+
+    background-color: rgb(255, 255, 255);
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left:  50%;
+    float: left;
+    top: -800px;
+       
+   
+}
+
+.caja_curso3 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso3 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton4
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img3 {
+    position: relative;
+    left: 90px;
+}
+
+
+.caja_curso4
+{
+
+    background-color: rgb(255, 255, 255);
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left:  52%;
+    float: left;
+    top: -800px;
+     
+}
+
+
+.caja_curso4 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso4 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton5
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img4 {
+    position: relative;
+    left: 90px;
+}
+
+
+.caja_curso5
+{
+    background-color: rgb(65, 5, 5);
+    width: 22%;
+    height: 400px;
+    position: relative;
+    top: -380px;
+    left: 1%;
+
+}
+.caja_curso5 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso5 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton6
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img5 {
+    position: relative;
+    left: 90px;
+}
+
+
+
+.caja_curso6
+{
+    
+    background-color: rgb(255, 255, 255);
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left:  26%;
+    top: -780px;
+    
+}
+
+.caja_curso6 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso6 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton7
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img6 {
+    position: relative;
+    left: 90px;
+}
+
+.caja_curso7
+{
+
+    background-color: rgb(255, 255, 255);
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left:  50%;
+    top: -1180px;
+
+}
+
+.caja_curso7 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso7 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton8
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img7 {
+    position: relative;
+    left: 90px;
+}
+
+
+.caja_curso8
+{
+    background-color: rgb(255, 255, 255);
+    width: 22%;
+    height: 400px;
+    position: relative;
+    left:  74%;
+    top: -1580px;
+}
+
+.caja_curso8 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.caja_curso8 button
+{
+    color: white;
+    background-color:chocolate;
+}
+.boton9
+{
+    color: white;
+    background-color:chocolate;
+}
+
+#img8 {
+    position: relative;
+    left: 90px;
+}
+.caja_boton1
+{
+    background-color: rgb(206, 206, 197);
+    width: 100%;
+    height:80px ;
+   
+}
+
+.caja_boton1 button
+{
+    background-color: orange;
+    font-size: 17px;
+    height: 35px;
+    color: rgb(219, 214, 214);
+}
+.caja_lista1
+{
+    background-color: rgb(238, 228, 233);
+    width: 500px;
+    height: 600px;
+    position: relative; 
+    left: 250px;  
+    
+}
+
+.caja_lista2 {
+    background-color: rgb(238, 228, 233);
+    width: 500px;
+    height: 600px;
+    position: relative;
+    left: 800px;
+    top: -600px;
+}
+
+.caja_comunidad {
+    background-color: rgb(197, 197, 194);
+    top: -550px;
+    height: 900px;
+    width: 1500px;
+    position: relative;
+
+}
