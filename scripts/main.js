@@ -2,7 +2,7 @@ window.onload= init;
 
 function init () {
     var sound = new Howl ({
-        src: ["../proyectoV2/audios/blow.mp3"]
+        src: ["..audios/blow.mp3"]
       });
 
 var playmusic = document.getElementById ("playmusic");

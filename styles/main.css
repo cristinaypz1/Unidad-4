@@ -388,10 +388,106 @@ color: black;
 }
 
 .caja_comunidad {
-    background-color: rgb(197, 197, 194);
+    background-color: rgb(158, 158, 23);
     top: -550px;
     height: 900px;
     width: 1500px;
     position: relative;
 
+}
+
+
+.usuario1 {
+    background-color: rgb(255, 255, 255);
+    height:300px;
+    width: 200px;
+    top: 50px;
+    left: 60px;
+    position: relative;
+}
+
+#usuario1 {
+    position: relative;
+    left: 20px;
+}
+
+.usuario2 {
+    background-color: rgb(129, 27, 27);
+    height:300px;
+    width: 200px;
+    top:-250px;
+    left: 270px;
+    position: relative;
+}
+
+.usuario3 {
+    background-color: rgb(42, 57, 189);
+    height:300px;
+    width: 200px;
+    top: -550px;
+    left: 500px;
+    position: relative;
+}
+
+.usuario4 {
+    background-color: rgb(26, 25, 10);
+    height:300px;
+    width: 200px;
+    top: -850px;
+    left: 720px;
+    position: relative;
+}
+
+.usuario5 {
+    background-color: rgb(192, 16, 177);
+    height:300px;
+    width: 200px;
+    top: -1150px;
+    left: 950px;
+    position: relative;
+}
+
+.usuario6 {
+    background-color: rgb(233, 33, 33);
+    height:300px;
+    width: 200px;
+    top: -1100px;
+    left: 120px;
+    position: relative;
+}
+
+.usuario7 {
+    background-color: rgb(29, 47, 206);
+    height:300px;
+    width: 200px;
+    top: -1400px;
+    left: 360px;
+    position: relative;
+}
+
+.usuario8 {
+    background-color: rgb(119, 22, 38);
+    height:300px;
+    width: 200px;
+    top: -1700px;
+    left: 600px;
+    position: relative;
+}
+
+.usuario9 {
+    background-color: rgb(196, 43, 43);
+    height:300px;
+    width: 200px;
+    top: -2000px;
+    left: 840px;
+    position: relative;
+}
+
+.usuario10 {
+    background-color: rgb(27, 27, 27);
+    height:300px;
+    width: 200px;
+    top: -2300px;
+    left: 1080px;
+    position: relative;
 }
