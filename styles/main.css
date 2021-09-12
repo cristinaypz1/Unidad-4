@@ -23,6 +23,11 @@ nav
     color: white;
   }
 
+section {
+    width: 100%;
+    height: 100vh;
+}
+
 .caja_principal
 {
 background-color: rgb(197, 197, 194);
@@ -388,21 +393,20 @@ color: black;
 }
 
 .caja_comunidad {
-    background-color: rgb(158, 158, 23);
+    background-color: #f2f2f2;
     top: -550px;
-    height: 900px;
-    width: 1500px;
+    height: 850px;
+    width: 1600px;
     position: relative;
 
 }
-
 
 .usuario1 {
     background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: 50px;
-    left: 60px;
+    left: 180px;
     position: relative;
 }
 
@@ -412,70 +416,105 @@ color: black;
 }
 
 .usuario2 {
-    background-color: rgb(129, 27, 27);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top:-250px;
-    left: 270px;
+    left: 400px;
     position: relative;
+}
+
+#usuario2 {
+    position: relative;
+    left: 20px;
 }
 
 .usuario3 {
-    background-color: rgb(42, 57, 189);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -550px;
-    left: 500px;
+    left: 620px;
     position: relative;
+}
+
+#usuario3 {
+    position: relative;
+    left: 20px;
 }
 
 .usuario4 {
-    background-color: rgb(26, 25, 10);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -850px;
-    left: 720px;
+    left: 840px;
     position: relative;
+}
+
+#usuario4 {
+    position: relative;
+    left: 10px;
 }
 
 .usuario5 {
-    background-color: rgb(192, 16, 177);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -1150px;
-    left: 950px;
+    left: 1060px;
     position: relative;
+}
+
+#usuario5 {
+    position: relative;
+    left: 20px;
 }
 
 .usuario6 {
-    background-color: rgb(233, 33, 33);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -1100px;
-    left: 120px;
+    left: 180px;
     position: relative;
+}
+
+#usuario6 {
+    position: relative;
+    left: 20px;
 }
 
 .usuario7 {
-    background-color: rgb(29, 47, 206);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -1400px;
-    left: 360px;
+    left: 400px;
     position: relative;
+}
+
+#usuario7 {
+    position: relative;
+    left: 20px;
 }
 
 .usuario8 {
-    background-color: rgb(119, 22, 38);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -1700px;
-    left: 600px;
+    left: 620px;
     position: relative;
 }
 
+#usuario8 {
+    position: relative;
+    left: 20px;
+}
+
 .usuario9 {
-    background-color: rgb(196, 43, 43);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -2000px;
@@ -483,11 +522,22 @@ color: black;
     position: relative;
 }
 
+#usuario9 {
+    position: relative;
+    left: 20px;
+}
+
 .usuario10 {
-    background-color: rgb(27, 27, 27);
+    background-color: rgb(255, 255, 255);
     height:300px;
     width: 200px;
     top: -2300px;
-    left: 1080px;
+    left: 1060px;
     position: relative;
 }
+
+#usuario10 {
+    position: relative;
+    left: 20px;
+}
+
