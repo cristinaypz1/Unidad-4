@@ -27,6 +27,13 @@ stopmusic.addEventListener("click", function(){
 
 }
 
+function init () {
+    new Splide( '#splide', {
+        perPage: 3,
+        rewind : true,
+    } ).mount();
+}
+
 
 
 

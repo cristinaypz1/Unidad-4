@@ -541,3 +541,16 @@ color: black;
     left: 20px;
 }
 
+#splide {
+    top: -2200px;
+}
+
+.splide__slide {
+    background-color: rgb(116, 116, 216);
+    height: 200px;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    font-size: 30px;
+}
+
